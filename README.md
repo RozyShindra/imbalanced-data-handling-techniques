@@ -21,6 +21,10 @@ It uses a **toy 2D dataset** for visualization so that you can directly observe 
 - Variational Autoencoder (VAE)
 - Generative Adversarial Network (GAN)
 
+### Results
+<img width="1789" height="955" alt="image" src="https://github.com/user-attachments/assets/fd8deb58-81d5-40be-9688-059a4fd9422e" />
+
+
 ## Quickstart
 
 ```bash
