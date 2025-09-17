@@ -22,7 +22,8 @@ It uses a **toy 2D dataset** for visualization so that you can directly observe 
 - Generative Adversarial Network (GAN)
 
 ### Results
-<img width="1789" height="955" alt="image" src="https://github.com/user-attachments/assets/fd8deb58-81d5-40be-9688-059a4fd9422e" />
+<img width="1789" height="955" alt="image" src="https://github.com/user-attachments/assets/aa215681-2060-495e-82fb-128f9b4c6e06" />
+
 
 
 ## Quickstart
