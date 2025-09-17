@@ -24,7 +24,7 @@ It uses a **toy 2D dataset** for visualization so that you can directly observe 
 ## Quickstart
 
 ```bash
-git clone https://github.com/rozyshindra/imbalanced-data-handling-techniques.git
+git clone https://github.com/RozyShindra/imbalanced-data-handling-techniques.git
 cd imbalanced-data-handling-techniques
 python -m pip install -r requirements.txt
 python main.py
